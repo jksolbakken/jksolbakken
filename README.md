@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I develop stuff for [NAV](https://github.com/navikt) and [NAIS](https://github.com/nais)
+
 <!--
 **jksolbakken/jksolbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
