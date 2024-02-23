@@ -2,8 +2,6 @@
 
 I develop stuff for [NAV](https://github.com/navikt) and [NAIS](https://github.com/nais)
 
-<img src="https://github-readme-stats.vercel.app/api/?username=jksolbakken&show_icons=true&hide_border=true&theme=cobalt" />
-
 <!--
 **jksolbakken/jksolbakken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
